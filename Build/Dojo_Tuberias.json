@@ -1,0 +1,17 @@
+{
+"companyName": "CausaYEfecto",
+"productName": "Plantilla_Aguas",
+"productVersion": "0.1",
+"dataUrl": "Dojo_Tuberias.data.unityweb",
+"wasmCodeUrl": "Dojo_Tuberias.wasm.code.unityweb",
+"wasmFrameworkUrl": "Dojo_Tuberias.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Dojo_Tuberias.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
